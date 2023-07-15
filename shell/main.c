@@ -62,7 +62,7 @@ char str[30];
 scanf("%s",str);
 if(strcmp(str,"MinniOS"))
 {
-printf("Manvendra Raj Singh-102103799\n");
+printf("Manvendra Raj Singh\n");
 }
 else
 printf("Wrong input\n");
@@ -77,7 +77,7 @@ return 1;
 int minni_help(char **args)
 {
   int i;
-  printf("Our Project - MinniShell\n");
+  printf("My Project - MinniShell\n");
   printf("Type program names and arguments, and hit enter.\n");
   printf("The following are built in:\n");
  
